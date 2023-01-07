@@ -1,4 +1,4 @@
-- 👋 I’m Hyeokjin /hɪək,dʒɪn/ who works as a DevOps engineer in the Netherlands.
+- 👋 I’m Hyeokjin /hɪək,dʒɪn/ who works as a developer and DevOps engineer in the Netherlands.
 - 👀 I’m interested in RDM(Research Data Management) technologies
 - 🌱 I’m currently learning new languages such as Rust and Go
 
